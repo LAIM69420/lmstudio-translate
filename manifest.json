@@ -1,0 +1,12 @@
+{
+  "owner": "local",
+  "name": "lmstudio-translate",
+  "type": "plugin",
+  "runner": "node",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "icon": "thumbnail.png",
+  "license": "MIT",
+  "description": "Language detection and translation tools for LM Studio. Detects languages, translates common phrases, and leverages the LLM for full translations.",
+  "categories": ["tools"]
+}
